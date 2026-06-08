@@ -17,7 +17,7 @@ O front-end organiza a interface em uma arquitetura inspirada em MVVM, enquanto 
 ## Visualização do Projeto
 
 <p align="center">
-  <img alt="Demonstração do projeto" src="src/assets/thambnail-biblioteca.gif" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 80%;">
+  <img alt="Demonstração do projeto" src="src/assets/thambnailbiblioteca.gif" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 80%;">
 </p>
 
 ---
