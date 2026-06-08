@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img width="280" alt="Biblioteca" src="src/assets/Logo%20horizontal.png" />
-  <br>
+  <img width="200" alt="Biblioteca" src="src/assets/Logo%20horizontal.png" />
   <p>
     <img src="https://img.shields.io/github/last-commit/DanielVerissimo1/gerenciamento-biblioteca-front-end?style=for-the-badge&logo=git&logoColor=white&color=7b2d26" alt="Last Commit">
     <img src="https://img.shields.io/github/languages/top/DanielVerissimo1/gerenciamento-biblioteca-front-end?style=for-the-badge&color=7b2d26" alt="Top Language">
